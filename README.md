@@ -1,11 +1,14 @@
 hi I'm storm. here are some things I've worked on
 
 ### Crypto
-- Check the Chain: EVM lib focused on data science and data engineering [repo](https://github.com/checkthechain/checkthechain), [docs](https://ctc.readthedocs.org/)
-- eth-abi-lite: lite fork of eth_abi to improve import speeds and remove external dependencies [repo](https://github.com/sslivkoff/eth-abi-lite)
-- Paradigm Data Portal: open source collection of crypto datasets [repo](https://github.com/paradigmxyz/paradigm-data-portal), [site](https://data.paradigm.xyz/)
-- flood: load testing tool for benchmarking RPC nodes [repo](https://github.com/paradigmxyz/flood/), [blog](https://www.paradigm.xyz/2023/06/flood)
-- cryo: ETL tool for extracting blockchain data [repo](https://github.com/paradigmxyz/cryo)
+- [Check the Chain](https://github.com/checkthechain/checkthechain): EVM lib focused on data science and data engineering [docs](https://ctc.readthedocs.org/)
+- [eth-abi-lite](https://github.com/sslivkoff/eth-abi-lite): lite fork of eth_abi to improve import speeds and remove external dependencies
+- [Paradigm Data Portal](https://github.com/paradigmxyz/paradigm-data-portal): open source collection of crypto datasets [site](https://data.paradigm.xyz/)
+- [flood](https://github.com/paradigmxyz/flood/): load testing tool for benchmarking RPC nodes [blog](https://www.paradigm.xyz/2023/06/flood)
+- [cryo](https://github.com/paradigmxyz/cryo): ETL tool for extracting blockchain data 
+- [ultimate EVM tracing reference](https://github.com/paradigmxyz/ultimate_evm_tracing_reference): overview of tracing on EVM systems
+- [etop](https://github.com/paradigmxyz/etop): realtime EVM chain monitoring in the terminal
+- [MESC](https://github.com/paradigmxyz/mesc): Multiple Endpoint Shared Configuration standard
 
 ### Neuroscience
 - MILP for Experimental Design [site](https://www.cell.com/neuron/fulltext/S0896-6273(21)00119-7), [pdf](https://www.cell.com/action/showPdf?pii=S0896-6273%2821%2900119-7)
