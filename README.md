@@ -8,6 +8,7 @@ hi I'm storm. here are some things I've worked on
 - [cryo](https://github.com/paradigmxyz/cryo): ETL tool for extracting blockchain data 
 - [ultimate EVM tracing reference](https://github.com/paradigmxyz/ultimate_evm_tracing_reference): overview of tracing on EVM systems
 - [etop](https://github.com/paradigmxyz/etop): realtime EVM chain monitoring in the terminal
+- [Advent of Crypto Data](https://paradigmxyz.github.io/advent-of-crypto-data/): crypto data advent calendar
 - [MESC](https://github.com/paradigmxyz/mesc): Multiple Endpoint Shared Configuration standard
 
 ### Neuroscience
