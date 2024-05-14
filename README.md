@@ -1,11 +1,17 @@
 hi I'm storm. here are some things I've worked on
 
-### Crypto
+### Crypto Research
+- How to Raise the Gas Limit
+    - [Part 1: State Growth](https://www.paradigm.xyz/2024/03/how-to-raise-the-gas-limit-1)
+    - [Part 2: History Growth](https://www.paradigm.xyz/2024/05/how-to-raise-the-gas-limit-2)
+- [State growth and the "Xen Problem"](https://twitter.com/notnotstorm/status/1778803270750023813)
+
+### Crypto Tooling
 - [Check the Chain](https://github.com/checkthechain/checkthechain): EVM lib focused on data science and data engineering [docs](https://ctc.readthedocs.org/)
 - [eth-abi-lite](https://github.com/sslivkoff/eth-abi-lite): lite fork of eth_abi to improve import speeds and remove external dependencies
 - [Paradigm Data Portal](https://github.com/paradigmxyz/paradigm-data-portal): open source collection of crypto datasets [site](https://data.paradigm.xyz/)
 - [flood](https://github.com/paradigmxyz/flood/): load testing tool for benchmarking RPC nodes [blog](https://www.paradigm.xyz/2023/06/flood)
-- [cryo](https://github.com/paradigmxyz/cryo): ETL tool for extracting blockchain data 
+- [cryo](https://github.com/paradigmxyz/cryo): ETL tool for extracting blockchain data [talk](https://www.youtube.com/watch?v=1DFxuspPE2g)
 - [ultimate EVM tracing reference](https://github.com/paradigmxyz/ultimate_evm_tracing_reference): overview of tracing on EVM systems
 - [etop](https://github.com/paradigmxyz/etop): realtime EVM chain monitoring in the terminal
 - [Advent of Crypto Data](https://paradigmxyz.github.io/advent-of-crypto-data/): crypto data advent calendar
