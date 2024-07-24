@@ -16,6 +16,7 @@ hi I'm storm. here are some things I've worked on
 - [etop](https://github.com/paradigmxyz/etop): realtime EVM chain monitoring in the terminal
 - [Advent of Crypto Data](https://paradigmxyz.github.io/advent-of-crypto-data/): crypto data advent calendar
 - [MESC](https://github.com/paradigmxyz/mesc): Multiple Endpoint Shared Configuration standard
+- [spice](https://github.com/paradigmxyz/spice/): Simple client for extracting data from the Dune Analytics API
 
 ### Neuroscience
 - MILP for Experimental Design [site](https://www.cell.com/neuron/fulltext/S0896-6273(21)00119-7), [pdf](https://www.cell.com/action/showPdf?pii=S0896-6273%2821%2900119-7)
